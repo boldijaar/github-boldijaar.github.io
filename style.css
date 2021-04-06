@@ -1,0 +1,142 @@
+div#page {
+  
+  margin-right: auto;
+  margin-left: auto;
+  width: 1200px;
+  padding: 0px;
+
+  
+}
+
+
+h1#Hi {
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  margin-bottom: 0px;
+  position: relative;
+  top: 200px;
+  left: 285px;
+  
+}
+
+h1#name {
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  font-size: 66px;
+  margin-top: 0px;
+  position: relative;
+  top: 190px;
+  left: 270px;
+  
+}
+
+
+div#title {
+  border-top: 5px black solid;
+  top: -10px;
+  position: relative;
+  width: 1200px;
+  height: 378px;
+  background-size: 1200px 378px;
+  background-image: 
+    url('https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png')
+}
+
+h1#name: {
+  
+}
+
+
+p.first {
+  margin-top: 50px;
+  line-height: 150%;
+  font-family: 'Josefin Sans';
+  padding: 0px 270px;
+  font-size: 18px;
+}
+ul.first {
+  font-family: 'Josefin Sans';
+  padding: 0px 270px;
+  margin-left: 40px;
+  line-height: 150%;
+  font-size: 18px;
+  
+}
+ul {
+  font-family: 'Josefin Sans';
+  padding: 0px 270px;
+  margin-left: 40px;
+  line-height: 150%;
+  font-size: 15px;
+  
+}
+ 
+h2 {
+  font-family: 'Josefin Sans';
+  margin-bottom: 45px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 0px 270px;
+  font-size: 22px;
+  
+}
+
+h3 {
+  font-family: 'Josefin Sans';
+  padding: 0px 270px;
+  line-height: 150%;
+  margin-bottom: 0px;
+  font-size: 21px;
+}
+
+h4 {
+  font-family: 'Merriweather';
+  margin-top: 0px;
+  font-weight: normal;
+  padding: 0px 270px;
+  font-size: 15px;
+  
+}
+
+p {
+  font-family: 'Josefin Sans';
+  padding: 0px 270px;
+  line-height: 150%;
+  font-size: 14px;
+}
+
+footer {
+  margin-bottom: 50px;
+}
+
+div#borderline {
+  width: 720px;
+  margin: 45px auto 45px auto;
+  border-top: 5px black solid;
+}
+
+blockquote::before {
+  content: '”';
+  
+  
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  background: grey;
+  font-size: 96px;
+}
+
+blockquote {
+  width: 720px;
+  margin: 65px auto 50px auto;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  background: grey;
+  font-size: 46px;
+  margin-top: 0px;
+  padding: 35px 0px 35px 35px;
+}
+
+blockquote::first-line{
+margin-left: -35px;
+}
